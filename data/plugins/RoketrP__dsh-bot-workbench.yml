@@ -1,0 +1,7 @@
+url: https://github.com/RoketrP/dsh-bot-workbench
+name: RoketrP/dsh-bot-workbench
+category: workflow
+description:
+  en: Personal Bots with private memory, evidence review, explicit handoffs, native schedules and interrupted-run reconciliation.
+  zh: 个人 Bot 的私有记忆、证据验收、明确交接、原生计划与中断核对工作流。
+tarball: https://github.com/RoketrP/dsh-bot-workbench/releases/download/v0.1.0-rc.1/dsh-bot-workbench-0.1.0-rc.1.tgz
